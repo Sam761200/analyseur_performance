@@ -19,7 +19,7 @@ GCC pour compiler le code source.
 Clonez ce dépôt sur votre machine locale en utilisant la commande suivante :
 
 ```bash
-git clone [URL_du_dépôt]
+git clone https://github.com/Sam761200/analyseur_performance.git
 ```
 
 Naviguez dans le répertoire du projet, puis compilez le code source :
